@@ -7,8 +7,27 @@
 // $('div img:first-child');
 // $("img[alt='the beatles making faces']");
 
-function paragrapjSelector 
-lastImageSelector()
- ninjaBabySelector() 
- divSelector()
-firstListItem()
+function paragraphSelector(){
+  
+}
+
+
+lastImageSelector(){
+  
+}
+
+
+ ninjaBabySelector(){
+   
+ }
+ 
+ 
+ divSelector(){
+   
+ }
+ 
+ 
+firstListItem(){
+  
+  
+}
