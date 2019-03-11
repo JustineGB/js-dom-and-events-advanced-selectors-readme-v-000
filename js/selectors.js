@@ -18,7 +18,7 @@ function lastImageSelector(){
  }
  
  
-firstListItem(){
+function firstListItem(){
   
   
 }
