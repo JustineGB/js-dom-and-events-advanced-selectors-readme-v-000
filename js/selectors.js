@@ -12,17 +12,17 @@ function paragraphSelector(){
 }
 
 
-lastImageSelector(){
+function lastImageSelector(){
   
 }
 
 
- ninjaBabySelector(){
+ function ninjaBabySelector(){
    
  }
  
  
- divSelector(){
+ function divSelector(){
    
  }
  
