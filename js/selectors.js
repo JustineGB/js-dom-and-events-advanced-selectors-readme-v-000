@@ -8,7 +8,7 @@
 // $("img[alt='the beatles making faces']");
 
 function paragraphSelector(){
-  
+  $('p');
 }
 
 
