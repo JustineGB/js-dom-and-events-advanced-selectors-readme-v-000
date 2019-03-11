@@ -2,5 +2,5 @@
 $('img');
 $('.pics');
 $('#baby-ninja');
-('ul li');
+$('ul li');
 $('parent-tag child-tag:first-child');
