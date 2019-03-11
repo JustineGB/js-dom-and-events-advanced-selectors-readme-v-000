@@ -8,5 +8,6 @@
 // $("img[alt='the beatles making faces']");
 
 function paragrapjSelector 
+ ninjaBabySelector() 
  divSelector()
 firstListItem()
