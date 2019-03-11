@@ -19,6 +19,6 @@ function lastImageSelector(){
  
  
 function firstListItem(){
-  return $('#pic-list ul:nth-child(1)');
+  return $('ul #pic-list li:nth-child(1)');
   
 }
